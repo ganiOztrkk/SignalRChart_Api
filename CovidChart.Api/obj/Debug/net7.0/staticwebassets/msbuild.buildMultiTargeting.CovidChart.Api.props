@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CovidChart.Api.props" />
+</Project>
